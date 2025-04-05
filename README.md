@@ -1,1 +1,1 @@
-# -Prothera-Vinicius_Barbosa_Ribeiro_SQL
+# Prothera-Vinicius_Barbosa_Ribeiro_SQL
